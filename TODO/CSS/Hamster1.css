@@ -1,0 +1,23 @@
+body{
+    border-style: solid;
+    border-color: red; 
+border-width: 10px;
+margin: 0px;
+background-color: cyan;
+}
+
+h1{
+    color: violet;
+}
+
+h2{
+    color: white;
+}
+
+img{
+    float: right;
+    margin-right: 50px;
+}
+p{
+    color: blueviolet;
+}

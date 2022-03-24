@@ -1,0 +1,24 @@
+h1{
+    color: blueviolet;
+margin-left: 20px;
+}
+
+h2{
+    color: greenyellow;
+    margin: 20px;
+
+    
+}
+
+img{
+   vertical-align: middle; 
+   float: left;
+}
+
+
+
+.banner{
+    width: 15px; /*15 rem */
+    height: 43.125px; /*43.125 rem */
+}
+

@@ -1,0 +1,187 @@
+h1 {
+    font-size: 70px;
+    color: blue;
+    font-family: couriel;
+    margin-bottom: 0px;
+    border-color: green;
+}
+img {
+    float: left;
+    margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
+    padding: auto;
+    background-color: #a7dbe3;
+    color: black;
+    font-size: 21px;
+
+    font-family: calibri;
+}
+.box{
+    width: 33.3%;
+    height: 50px;
+    box-sizing: border-box;
+}
+#box1{
+    padding: 10px;
+    border:solid real 5px;
+}
+
+
+h1 {
+    font-size: 70px;
+    color: blue;
+    font-family: couriel;
+    margin-bottom: 0px;
+}
+h2 {
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    line-height: 1.4;
+    background: yellow;
+    0clear: both
+}
+
+#caja1 {
+    height: 500px;
+    width: 500px;
+    background: red;
+
+    float: left;
+
+}
+#boxbox1 {
+    height: 400px;
+    width: 570px;
+    background: blue;
+
+    float: left;
+}
+
+img {
+    float: left;
+    margin-right: 50px;
+}
+/*body{
+    background-color: aqua;
+    color:black;
+    font-size: 21px;
+}
+h1{
+font-size: 70px;
+color:red;
+font-family: Helvetica;
+margin-bottom: 0px;
+}
+p{
+    margin-top: 5px;
+
+    background-color: coral;
+
+}
+#caja1{
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+#caja2 {
+    float: left;
+    width: 250px;
+    height: 300px;
+}
+#caja3 {
+    width: 500px;
+    height: 300px;
+}
+
+
+/* Ejercicio 2
+#caja1, #caja2, #caja3{
+    background-color: yellow;
+    color: red;
+    border: blue solid 5px;
+}
+
+#caja1{
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+#caja2 {
+    float: left;
+    width: 250px;
+    height: 300px;
+}
+#caja3 {
+    width: 500px;
+    height: 300px;
+}
+*/
+
+/* Ejercicio 1
+body {
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+    margin: 0px;
+    background-color: burlywood;
+}
+main { 
+    position: static;
+    top: 150px;
+}
+article {
+    margin: 18px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: blue;
+    color: white
+}
+h1 { 
+    color: blue;
+}
+h2{
+    color:blueviolet;
+}
+*/
+
+/*
+backgraound color
+color
+font size
+font family opcional
+
+margin
+border
+padding
+
+tamaño
+width
+height
+
+float
+
+h1
+h2
+imagen
+texto (parrafo 300 palabras)
+2 cajas 1 despues de la otra
+texto (parrafo 300 palabras)
+*/

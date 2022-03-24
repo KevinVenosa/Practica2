@@ -1,0 +1,81 @@
+body{
+    border-style: solid;
+border-color: red; 
+border-width: 10px;
+margin: 0px;
+background-color: black;
+}
+
+h1{
+    color: violet;
+}
+
+h2{
+    color: white;
+}
+
+img{
+    float: right;
+    margin-right: 50px;
+}
+
+
+
+/*#caja1, #caja2, #caja3 {
+    background-color: yellow;
+    color: blueviolet;
+    border: red 5px;
+}
+#caja1{
+    float: right;
+    width: 200px;
+    height: 300px;
+    margin: 0px;
+}
+
+#caja2 {
+    float: right;
+    width: 200px;
+    height: 300px;
+    margin: 0px;
+}
+
+#caja3 {
+    float: right;
+    width: 500px;
+    height: 300px;
+    margin: 0px;
+}
+
+
+body{ es el cuerpo del programa
+border-style: solid; estilo del borde
+border-color: red; 
+border-width: 10px;
+margin: 0px;
+background-color: black;
+}
+
+h1{
+    color: violet;
+}
+
+h2{
+    color: white;
+}
+
+
+
+main{
+position: static;
+top: 150px;
+}
+
+article{
+    margin: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: blue;
+    color: white;
+} */
